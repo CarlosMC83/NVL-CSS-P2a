@@ -1,0 +1,12 @@
+Buenos días,
+
+Para realizar la práctica he consultado muchos tutoriales en youtube principalmente de la plataforma Edteam con la finalidad de adaptarlo a los requerimientos de la práctica.
+
+He añadido más estilos en css a parte de los requeridos en la práctica:
+
+(list-style-type: square;) Para cambiar el estilo, he probado varios y me ha gustado este
+
+(margin-right: 1070px;) Para que el color de fondo #fabada ocupe solo lo que ocupe el texto.
+Se que se puede hacer de otra manera pero no lo he encontrado.
+
+
